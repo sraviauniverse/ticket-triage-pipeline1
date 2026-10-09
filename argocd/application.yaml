@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/sraviauniverse/ticket-triage-pipeline
+    repoURL: https://github.com/sraviauniverse/ticket-triage-pipeline1
     targetRevision: main
     path: k8s
   destination:
